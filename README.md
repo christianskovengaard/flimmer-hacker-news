@@ -1,7 +1,7 @@
 # The is the hacker news flimmer app
 
-To get started do the following
+To get started do the following.
 
-```clone the repo```
+1.  clone the repo
 
-run this command ```run npm install && npm run dev```
+2. run this command ```run npm install && npm run dev```
